@@ -1,7 +1,8 @@
-# MCP Server
+# EPNAI
+![EPNAI](https://github.com/user-attachments/assets/24955be0-6c7c-456e-b8b2-7312701896b0)
 
 ## Overview
-Reference server implementation for the Machine-Centric Protocol (MCP) on Solana. This server handles context metadata, wallet integration, and bridges between agents and off-chain services.
+Reference server implementation for the Machine-Centric Protocol (EPNAI) on Solana. This server handles context metadata, wallet integration, and bridges between agents and off-chain services.
 
 ## Features
 - **Context Metadata**: Loading and caching of context definitions
@@ -27,7 +28,7 @@ npm test
 - `/.github` - CI/CD workflows
 
 ## Links
-- [Documentation](../mcp-docs)
-- [Core Protocol](../mcp-core)
-- [Agents](../mcp-agents)
-- [Examples](../mcp-examples)
+- [Documentation](../EPNAI-docs)
+- [Core Protocol](../EPNAI-core)
+- [Agents](../EPNAI-agents)
+- [Examples](../EPNAI-examples)
