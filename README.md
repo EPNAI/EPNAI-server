@@ -1,8 +1,8 @@
-# EPNAI
-![EPNAI](https://github.com/user-attachments/assets/24955be0-6c7c-456e-b8b2-7312701896b0)
+# Liminai
+
 
 ## Overview
-Reference server implementation for the Machine-Centric Protocol (EPNAI) on Solana. This server handles context metadata, wallet integration, and bridges between agents and off-chain services.
+Reference server implementation for the Machine-Centric Protocol (Liminai) on Solana. This server handles context metadata, wallet integration, and bridges between agents and off-chain services.
 
 ## Features
 - **Context Metadata**: Loading and caching of context definitions
@@ -28,7 +28,7 @@ npm test
 - `/.github` - CI/CD workflows
 
 ## Links
-- [Documentation](../EPNAI-docs)
-- [Core Protocol](../EPNAI-core)
-- [Agents](../EPNAI-agents)
-- [Examples](../EPNAI-examples)
+- [Documentation](../Liminai-docs)
+- [Core Protocol](../Liminai-core)
+- [Agents](../Liminai-agents)
+- [Examples](../Liminai-examples)
